@@ -35,7 +35,9 @@ Compilation requirements
 
 - I use sphinx-builder to build this documentation (http://sphinx-doc.org/index.html)
 - with the cloud theme (http://pythonhosted.org/cloud_sptheme/cloud_theme.html)
-
+- I've added the bash script and batch files to support Linux, Mac OS (with homebrew) and Windows compilations.
+- The easiest is to use the ``requirements.txt`` file: ``pip install -r requirements.txt``
+- On windows you need msysw to have the unix tools like ``bash``, ``make``...
 
 How automatic compilation of the documentation is done?
 =======================================================
