@@ -7,7 +7,7 @@ Homepage for the Practical GIT Tutorial documentation
 This project holds the source code of the documentation publically available at the following URL:
 
 
-   http://www.great-a-blog.co/practical-git-tutorial
+   http://www.great-a-blog.co/practical-git-tutorial/
 
 
 How to edit documentation ?
