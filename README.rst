@@ -19,10 +19,10 @@ to help GIT user to quickly learn this tool.
 Also, I'm not native english speaker. If you find mistakes, please send me at least an email. You
 can use this address: gaetan [ at ] xeberon.net
 
-How to fork
------------
+How to fork?
+------------
 
-To fork this documentation and edit it offline, simply:
+To fork this documentation and edit it, simply:
 
 - fork this project (https://github.com/Stibbons/practical-git-tutorial)
 - edit your changes
@@ -45,7 +45,7 @@ documentation when changes are merged.
 
 A travis build is also triggered (I prefere the notification from travis-ci).
 
-Used online serivces
+Used online services
 --------------------
 
 - GitHub: https://github.com/Stibbons/practical-git-tutorial/
